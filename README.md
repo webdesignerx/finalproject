@@ -5,8 +5,9 @@ Project about html5
 This is the code which was wanted from me to pass the Coursera course about HTML5
 Attachments:
 
+<ul>
+<li>FinalProject.html</li>
 
-FinalProject.html
 
-
-Project Photo.png
+<li>Project Photo.png</li>
+</ul>
